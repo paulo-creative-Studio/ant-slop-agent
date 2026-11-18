@@ -1,0 +1,2515 @@
+1
+00:00:00,560 --> 00:00:02,580
+ Hoje eu vou te ensinar como que você
+
+2
+00:00:02,580 --> 00:00:05,220
+trabalha a ambientação da forma correta.
+
+3
+00:00:05,500 --> 00:00:09,620
+Luz, sombra, reflexo, brilho e essas coisas todas,
+
+4
+00:00:10,000 --> 00:00:12,120
+pra você entender de uma vez por todas
+
+5
+00:00:12,120 --> 00:00:14,360
+como é que você faz isso quando for
+
+6
+00:00:14,360 --> 00:00:16,620
+aplicar ao seu design, como é que isso
+
+7
+00:00:16,620 --> 00:00:17,180
+funciona.
+
+8
+00:00:17,420 --> 00:00:18,540
+Por que que tem essa luz aqui?
+
+9
+00:00:18,680 --> 00:00:19,940
+Por que que tem essa sombra aqui?
+
+10
+00:00:20,080 --> 00:00:21,140
+Da onde é que tá vindo essa luz?
+
+11
+00:00:21,200 --> 00:00:22,340
+Por que que essa luz tá vindo daqui?
+
+12
+00:00:22,500 --> 00:00:23,060
+Por que que não tá?
+
+13
+00:00:23,180 --> 00:00:23,320
+Entendeu?
+
+14
+00:00:23,660 --> 00:00:25,940
+É isso que você vai entender nesse vídeo
+
+15
+00:00:25,940 --> 00:00:26,360
+de hoje.
+
+16
+00:00:30,780 --> 00:00:33,200
+Quero que você preste atenção no seguinte, cada
+
+17
+00:00:33,200 --> 00:00:36,600
+um desses pontos tem um nome específico pra
+
+18
+00:00:36,600 --> 00:00:38,540
+você entender do que é que se trata.
+
+19
+00:00:38,920 --> 00:00:41,260
+Caga pra cada um desses nomes porque eles
+
+20
+00:00:41,260 --> 00:00:43,060
+não são nem um pouco importantes.
+
+21
+00:00:43,480 --> 00:00:45,040
+O que importa é você fazer da forma
+
+22
+00:00:45,040 --> 00:00:45,720
+adequada.
+
+23
+00:00:45,860 --> 00:00:48,720
+A questão da nomenclatura, isso é interessante você
+
+24
+00:00:48,720 --> 00:00:51,740
+saber quando se tratar de luzes relacionadas à
+
+25
+00:00:51,740 --> 00:00:52,540
+fotografia.
+
+26
+00:00:52,800 --> 00:00:55,560
+Esses nomes é até interessante você saber porque
+
+27
+00:00:55,560 --> 00:00:58,440
+você consegue depois pesquisar sobre elas pra poder
+
+28
+00:00:58,440 --> 00:01:00,620
+entender na aplicação do seu design.
+
+29
+00:01:00,620 --> 00:01:05,080
+Pode parecer uma coisa completamente desconexa, mas quando
+
+30
+00:01:05,080 --> 00:01:08,740
+você entende esses princípios de fotografia e aplica
+
+31
+00:01:08,740 --> 00:01:11,260
+ao seu design, cara, como muda completamente.
+
+32
+00:01:11,720 --> 00:01:14,400
+Essa parte, ela é tão importante, ela é
+
+33
+00:01:14,400 --> 00:01:18,740
+tão importante que tem uma aula específica só
+
+34
+00:01:18,740 --> 00:01:20,860
+sobre luz e sombra dentro do design de
+
+35
+00:01:20,860 --> 00:01:21,440
+outra dimensão.
+
+36
+00:01:21,720 --> 00:01:23,160
+E por isso que eu tô trazendo esse
+
+37
+00:01:23,160 --> 00:01:25,640
+conteúdo aqui pra você também, de graça, pra
+
+38
+00:01:25,640 --> 00:01:27,520
+você aprender e parar de errar com a
+
+39
+00:01:27,520 --> 00:01:28,520
+questão das luzes.
+
+40
+00:01:28,520 --> 00:01:31,780
+O que você precisa entender é altas luzes,
+
+41
+00:01:31,920 --> 00:01:33,300
+que é esse brilho mais forte.
+
+42
+00:01:33,700 --> 00:01:36,440
+Você tem aqui uma center light, é uma
+
+43
+00:01:36,440 --> 00:01:37,200
+luz principal.
+
+44
+00:01:37,640 --> 00:01:39,120
+Aí você tem um highlight, que é aquele
+
+45
+00:01:39,120 --> 00:01:40,720
+ponto específico bem brilhante.
+
+46
+00:01:41,040 --> 00:01:42,080
+Esse aqui é o highlight.
+
+47
+00:01:42,440 --> 00:01:44,980
+Essa luz de divisão aqui, que algumas pessoas
+
+48
+00:01:44,980 --> 00:01:49,380
+chamam de terminator, que é aquela mesma divisão
+
+49
+00:01:49,380 --> 00:01:52,620
+de quando tá transitando o dia pra noite.
+
+50
+00:01:53,080 --> 00:01:55,660
+Depois, você tem aqui a luz de reflexo.
+
+51
+00:01:55,660 --> 00:01:57,900
+Essa luz de reflexo também é importante que
+
+52
+00:01:57,900 --> 00:02:00,080
+você saiba, porque o próprio nome já vai
+
+53
+00:02:00,080 --> 00:02:01,880
+te fazer lembrar do que se trata essa
+
+54
+00:02:01,880 --> 00:02:02,740
+luz de reflexo.
+
+55
+00:02:02,980 --> 00:02:05,520
+Você tem a sombra de oclusão, que é
+
+56
+00:02:05,520 --> 00:02:07,560
+essa de contato aqui, a mais próxima.
+
+57
+00:02:07,919 --> 00:02:08,880
+É a sombra de oclusão.
+
+58
+00:02:09,340 --> 00:02:11,120
+Tem a cast shadow, que é a sombra
+
+59
+00:02:11,120 --> 00:02:11,940
+projetada.
+
+60
+00:02:12,060 --> 00:02:13,800
+Essa cast shadow, que a luz tá vindo
+
+61
+00:02:13,800 --> 00:02:15,400
+daqui, é a sombra projetada.
+
+62
+00:02:15,660 --> 00:02:17,100
+E a penumbra nada mais é do que
+
+63
+00:02:17,100 --> 00:02:20,900
+a difusão de uma dessas arestas da sombra.
+
+64
+00:02:21,100 --> 00:02:24,020
+Tem a sombra principal aqui, que é a
+
+65
+00:02:24,020 --> 00:02:24,700
+core shadow.
+
+66
+00:02:24,700 --> 00:02:26,480
+Tá vendo que ela não é escura na
+
+67
+00:02:26,480 --> 00:02:27,160
+parte inteira?
+
+68
+00:02:27,360 --> 00:02:28,380
+Ela é só um ponto aqui.
+
+69
+00:02:28,660 --> 00:02:28,980
+Por quê?
+
+70
+00:02:29,260 --> 00:02:31,940
+Porque cada um dos outros pontos faz com
+
+71
+00:02:31,940 --> 00:02:35,620
+que ela se difunde, diffuse, difunda...
+
+72
+00:02:35,620 --> 00:02:36,860
+Sei lá como é que fala isso.
+
+73
+00:02:37,440 --> 00:02:39,260
+E fique essa parte mais escura e as
+
+74
+00:02:39,260 --> 00:02:40,140
+outras mais claras.
+
+75
+00:02:40,220 --> 00:02:42,480
+E os meios-tons aqui, que também é
+
+76
+00:02:42,480 --> 00:02:43,700
+a mesma coisa que o form light.
+
+77
+00:02:43,780 --> 00:02:45,100
+Tá vendo que tá quase na mesma região?
+
+78
+00:02:45,600 --> 00:02:46,940
+Vamos pegar um exemplo básico.
+
+79
+00:02:47,020 --> 00:02:49,820
+Vamos fazer isso aqui junto pra você treinar.
+
+80
+00:02:50,060 --> 00:02:52,280
+Então pega aí uma elipse, cria aí uma
+
+81
+00:02:52,280 --> 00:02:53,160
+nova fill layer.
+
+82
+00:02:53,160 --> 00:02:56,080
+Essa fill layer não precisa ser branca.
+
+83
+00:02:56,300 --> 00:02:59,000
+Pode ser aqui um cinzinha mais...
+
+84
+00:02:59,000 --> 00:03:00,000
+Faz cinzinha aqui, ó.
+
+85
+00:03:00,160 --> 00:03:00,560
+Peito.
+
+86
+00:03:01,000 --> 00:03:02,460
+Agora, nosso círculo.
+
+87
+00:03:02,760 --> 00:03:04,260
+Esse aqui sim pode ser branquinho.
+
+88
+00:03:04,520 --> 00:03:06,080
+Vou fazer o seguinte, não vou deixar ele
+
+89
+00:03:06,080 --> 00:03:06,500
+branco não.
+
+90
+00:03:06,580 --> 00:03:07,980
+Eu vou deixar ele cinza.
+
+91
+00:03:08,320 --> 00:03:10,300
+E aí a gente vai fazendo junto os
+
+92
+00:03:10,300 --> 00:03:12,520
+pontos mais interessantes pra você entender.
+
+93
+00:03:12,820 --> 00:03:13,880
+O que nós temos aqui?
+
+94
+00:03:14,340 --> 00:03:14,880
+Uma elipse.
+
+95
+00:03:15,120 --> 00:03:17,660
+Se eu adicionar esse ponto aqui, na parte
+
+96
+00:03:17,660 --> 00:03:19,960
+de cima, vamos aumentar um pouco mais pra
+
+97
+00:03:19,960 --> 00:03:21,500
+você ver o que eu tô fazendo.
+
+98
+00:03:21,500 --> 00:03:23,700
+Adicionei um ponto lá, central.
+
+99
+00:03:23,840 --> 00:03:25,080
+Pode ser até maior, ó.
+
+100
+00:03:25,300 --> 00:03:28,140
+Até maior e mais opaco.
+
+101
+00:03:28,280 --> 00:03:30,180
+50% de opacidade.
+
+102
+00:03:30,440 --> 00:03:33,240
+E aí a gente vai dando pinceladas aqui
+
+103
+00:03:33,240 --> 00:03:35,460
+pra você ver o que é que tá
+
+104
+00:03:35,460 --> 00:03:36,020
+acontecendo.
+
+105
+00:03:36,440 --> 00:03:38,980
+Já temos aqui quase uma elipse.
+
+106
+00:03:39,400 --> 00:03:40,700
+Quase uma esfera, eu quero dizer.
+
+107
+00:03:41,060 --> 00:03:42,940
+Só que isso aqui tá vindo uma luz
+
+108
+00:03:42,940 --> 00:03:43,700
+daqui, ó.
+
+109
+00:03:43,940 --> 00:03:45,940
+Pera aí, que eu peguei a ferramenta errada.
+
+110
+00:03:46,220 --> 00:03:46,880
+Caramba, mano.
+
+111
+00:03:47,180 --> 00:03:48,320
+Tá vindo uma fer...
+
+112
+00:03:48,320 --> 00:03:48,940
+Puta que pariu.
+
+113
+00:03:52,540 --> 00:03:53,600
+Cara, ó.
+
+114
+00:03:53,940 --> 00:03:55,340
+Tá vindo uma luz daqui.
+
+115
+00:03:55,820 --> 00:03:57,640
+Presta atenção, porque você tem que entender isso
+
+116
+00:03:57,640 --> 00:03:57,860
+aqui.
+
+117
+00:03:58,000 --> 00:04:00,740
+Você entendendo isso aqui, você vai conseguir aplicar
+
+118
+00:04:00,740 --> 00:04:02,480
+no seu design em qualquer lugar que você
+
+119
+00:04:02,480 --> 00:04:02,760
+quiser.
+
+120
+00:04:03,000 --> 00:04:05,240
+E a parte dos blacks, dos shadows?
+
+121
+00:04:05,620 --> 00:04:06,540
+É a mesma coisa.
+
+122
+00:04:06,980 --> 00:04:09,260
+Dá pra você fazer o seguinte, se você
+
+123
+00:04:09,260 --> 00:04:11,860
+quiser praticar isso aqui de outra forma, tá?
+
+124
+00:04:12,160 --> 00:04:12,700
+Que é o seguinte.
+
+125
+00:04:13,180 --> 00:04:16,279
+Você deixa essa esfera mais escura e você
+
+126
+00:04:16,279 --> 00:04:17,500
+só trabalha os brilhos.
+
+127
+00:04:17,500 --> 00:04:20,540
+Porque as sombras vão ser aquilo que tá
+
+128
+00:04:20,540 --> 00:04:21,820
+onde não tem brilho.
+
+129
+00:04:21,960 --> 00:04:22,980
+Se você quiser, tá?
+
+130
+00:04:23,380 --> 00:04:26,500
+É só você simplesmente escurecer essa elipse.
+
+131
+00:04:26,760 --> 00:04:29,340
+Pega aqui, deixa ela bem escurona e já
+
+132
+00:04:29,340 --> 00:04:30,100
+resolve o problema.
+
+133
+00:04:30,340 --> 00:04:32,160
+Quando você habilitar, olha só que agora eu
+
+134
+00:04:32,160 --> 00:04:33,160
+já tenho sombras aqui.
+
+135
+00:04:33,640 --> 00:04:35,360
+Dá pra você fazer desse jeito se você
+
+136
+00:04:35,360 --> 00:04:35,620
+quiser.
+
+137
+00:04:36,060 --> 00:04:37,840
+Se não, você pode fazer do outro jeito
+
+138
+00:04:37,840 --> 00:04:38,820
+que eu tava fazendo também.
+
+139
+00:04:38,960 --> 00:04:40,880
+Vai dar a mesma coisa, não vai mudar
+
+140
+00:04:40,880 --> 00:04:41,520
+quase nada.
+
+141
+00:04:41,640 --> 00:04:42,620
+O que nós temos aqui?
+
+142
+00:04:42,700 --> 00:04:44,920
+Nós temos uma esfera com brilho e uma
+
+143
+00:04:44,920 --> 00:04:45,940
+sombra na parte de baixo.
+
+144
+00:04:45,940 --> 00:04:47,660
+Só que você tem que levar em consideração
+
+145
+00:04:47,660 --> 00:04:49,700
+que a parte de baixo também tá vindo
+
+146
+00:04:49,700 --> 00:04:50,180
+um brilho.
+
+147
+00:04:50,340 --> 00:04:50,660
+Por quê?
+
+148
+00:04:50,780 --> 00:04:52,000
+Porque a base é branca.
+
+149
+00:04:52,140 --> 00:04:54,500
+Se a base fosse preta, aí o negócio
+
+150
+00:04:54,500 --> 00:04:54,860
+ia mudar.
+
+151
+00:04:55,180 --> 00:04:57,100
+Vamos pegar um retângulo pretão.
+
+152
+00:04:57,540 --> 00:05:00,220
+Ele mudou outra coisa que não tinha absolutamente
+
+153
+00:05:00,220 --> 00:05:01,100
+nada a ver.
+
+154
+00:05:01,360 --> 00:05:04,500
+Se fosse assim, se essa base fosse preta,
+
+155
+00:05:04,580 --> 00:05:07,180
+então aqui você não ia ter um brilho.
+
+156
+00:05:07,740 --> 00:05:10,020
+Então aí você teria aqui essa parte mais
+
+157
+00:05:10,020 --> 00:05:10,580
+escura.
+
+158
+00:05:10,900 --> 00:05:12,820
+E aí você começa a ter uma parte
+
+159
+00:05:12,820 --> 00:05:14,720
+mais escura porque não tem reflexo.
+
+160
+00:05:14,720 --> 00:05:17,460
+Isso aqui, quando você entende esse princípio, você
+
+161
+00:05:17,460 --> 00:05:19,520
+para de errar na hora de ficar colocando
+
+162
+00:05:19,520 --> 00:05:20,080
+hambúrguer lá.
+
+163
+00:05:20,420 --> 00:05:20,820
+Olha isso.
+
+164
+00:05:21,080 --> 00:05:22,720
+Ainda tem mais coisas pra você fazer.
+
+165
+00:05:22,840 --> 00:05:24,620
+Você pode ainda colocar aqui o ponto, por
+
+166
+00:05:24,620 --> 00:05:24,920
+exemplo.
+
+167
+00:05:25,040 --> 00:05:26,200
+Vamos adicionar aqui mais um.
+
+168
+00:05:26,540 --> 00:05:29,680
+Que aí seria aquele ponto, deixa o brilho
+
+169
+00:05:29,680 --> 00:05:32,140
+aqui, que é a nossa alta luz.
+
+170
+00:05:32,480 --> 00:05:34,440
+As nossas altas luzes, nesse caso.
+
+171
+00:05:34,700 --> 00:05:36,760
+Olha só que nós temos uma esfera.
+
+172
+00:05:37,160 --> 00:05:37,720
+É simples.
+
+173
+00:05:38,200 --> 00:05:38,960
+Mas e agora?
+
+174
+00:05:39,100 --> 00:05:41,040
+Presta atenção porque agora o negócio começa a
+
+175
+00:05:41,040 --> 00:05:41,440
+complicar.
+
+176
+00:05:41,720 --> 00:05:43,120
+E se a gente tirar esse cara aqui?
+
+177
+00:05:43,120 --> 00:05:46,180
+Esse cara aqui, ele vai deixar de existir.
+
+178
+00:05:46,280 --> 00:05:46,660
+Por quê?
+
+179
+00:05:47,000 --> 00:05:50,500
+Porque eu tenho, dependendo da intensidade da luz,
+
+180
+00:05:50,820 --> 00:05:53,260
+eu vou ter um brilho que vai rebater
+
+181
+00:05:53,260 --> 00:05:55,440
+da base pra esfera.
+
+182
+00:05:55,820 --> 00:05:56,100
+Entende?
+
+183
+00:05:56,480 --> 00:05:59,240
+Esse cara, esse aqui é o ponto que
+
+184
+00:05:59,240 --> 00:06:01,200
+faz o seu design ficar foda.
+
+185
+00:06:01,480 --> 00:06:02,640
+Como é que você vai fazer isso?
+
+186
+00:06:02,860 --> 00:06:03,360
+Simples.
+
+187
+00:06:03,800 --> 00:06:06,560
+Você vai simplesmente, vamos adicionar uma nova camada
+
+188
+00:06:06,560 --> 00:06:07,640
+aqui, no branco.
+
+189
+00:06:07,920 --> 00:06:09,060
+Da onde que tá vindo esse brilho?
+
+190
+00:06:09,220 --> 00:06:09,980
+Tá vindo de baixo.
+
+191
+00:06:10,320 --> 00:06:11,740
+Daqui, daqui.
+
+192
+00:06:11,740 --> 00:06:13,060
+Toda essa parte aqui.
+
+193
+00:06:13,280 --> 00:06:15,560
+E é só um detalhezinho, tá vendo?
+
+194
+00:06:15,880 --> 00:06:19,520
+É só um detalhezinho, dependendo de onde estiver
+
+195
+00:06:19,520 --> 00:06:20,540
+rebatendo isso aqui.
+
+196
+00:06:20,880 --> 00:06:21,360
+Olha isso.
+
+197
+00:06:21,620 --> 00:06:23,380
+Vai dar pra ver melhor depois que a
+
+198
+00:06:23,380 --> 00:06:25,040
+gente tiver sombra, mas a gente não tá
+
+199
+00:06:25,040 --> 00:06:26,060
+trabalhando sombra agora.
+
+200
+00:06:26,280 --> 00:06:28,040
+A gente tá trabalhando só a parte da
+
+201
+00:06:28,040 --> 00:06:31,500
+iluminação, dos brilhos, da ambientação dessa esfera.
+
+202
+00:06:31,620 --> 00:06:33,260
+E isso aqui é importante que você saiba
+
+203
+00:06:33,260 --> 00:06:34,960
+que vai ter esse brilho.
+
+204
+00:06:35,360 --> 00:06:38,360
+Quando tiver esse brilho, esse cara aqui, eu
+
+205
+00:06:38,360 --> 00:06:40,740
+tenho um aspecto diferente agora.
+
+206
+00:06:40,740 --> 00:06:42,160
+O que esse cara tá me dizendo?
+
+207
+00:06:42,420 --> 00:06:43,860
+Tá me dizendo, ó, tem uma luz aqui
+
+208
+00:06:43,860 --> 00:06:45,660
+muito forte, mas tá vindo um brilho de
+
+209
+00:06:45,660 --> 00:06:45,980
+baixo.
+
+210
+00:06:46,280 --> 00:06:47,600
+O que isso aqui pode significar?
+
+211
+00:06:47,880 --> 00:06:49,800
+Pode significar que essa base preta pode ser
+
+212
+00:06:49,800 --> 00:06:50,760
+transparente.
+
+213
+00:06:50,840 --> 00:06:52,100
+Sim, existem essas formas.
+
+214
+00:06:52,480 --> 00:06:54,300
+Eu tenho um livro aqui muito bom que
+
+215
+00:06:54,300 --> 00:06:55,000
+fala sobre isso.
+
+216
+00:06:55,280 --> 00:06:56,420
+Mas eu vou lembrar e depois eu vou
+
+217
+00:06:56,420 --> 00:06:57,520
+colocar na descrição aqui.
+
+218
+00:06:57,580 --> 00:07:00,400
+Independente disso, na descrição aqui do vídeo eu
+
+219
+00:07:00,400 --> 00:07:03,740
+vou deixar os links pra você comprar livros,
+
+220
+00:07:04,040 --> 00:07:06,460
+se você quiser, sobre fotografia, que são muito
+
+221
+00:07:06,460 --> 00:07:08,360
+bons e que eu garanto pra você que
+
+222
+00:07:08,360 --> 00:07:09,160
+você vai entender.
+
+223
+00:07:09,160 --> 00:07:11,760
+Pode acontecer desse cara aqui ser transparente?
+
+224
+00:07:11,960 --> 00:07:13,320
+Pode acontecer, tá?
+
+225
+00:07:13,420 --> 00:07:15,600
+Mas aí é um outro assunto, é mais
+
+226
+00:07:15,600 --> 00:07:17,320
+complexo, eu não vou entrar nesse detalhe aí,
+
+227
+00:07:17,380 --> 00:07:17,540
+tá?
+
+228
+00:07:17,840 --> 00:07:19,620
+Pra isso, você tem que tirar esse cara.
+
+229
+00:07:19,920 --> 00:07:21,460
+E aí você volta a ter aquele brilho
+
+230
+00:07:21,460 --> 00:07:21,640
+ali.
+
+231
+00:07:21,940 --> 00:07:24,460
+E você não tem um reflexo branco da
+
+232
+00:07:24,460 --> 00:07:27,000
+mesa batendo, você vai ter só o escuro
+
+233
+00:07:27,000 --> 00:07:27,980
+da parte das sombras.
+
+234
+00:07:28,300 --> 00:07:29,140
+Olha isso, tá vendo?
+
+235
+00:07:29,600 --> 00:07:30,980
+Só que aí, pra isso, tem que ficar
+
+236
+00:07:30,980 --> 00:07:31,580
+dessa forma.
+
+237
+00:07:31,880 --> 00:07:33,440
+Isso aqui é a luz de reflexo.
+
+238
+00:07:33,620 --> 00:07:35,400
+Olha só, eu tenho o brilho, eu tenho
+
+239
+00:07:35,400 --> 00:07:36,940
+a sombra, e olha que eu tenho o
+
+240
+00:07:36,940 --> 00:07:38,700
+reflexo da base aqui, ó.
+
+241
+00:07:38,700 --> 00:07:39,080
+Tá vendo?
+
+242
+00:07:39,180 --> 00:07:40,880
+A luz tá batendo, tá rebatendo aqui.
+
+243
+00:07:41,280 --> 00:07:43,240
+Bateu lá na pedra, no chão, na base,
+
+244
+00:07:43,700 --> 00:07:45,920
+e rebateu ali na parte de baixo, tá
+
+245
+00:07:45,920 --> 00:07:46,060
+vendo?
+
+246
+00:07:46,420 --> 00:07:48,860
+Mesmo tendo a parte escura ali da sombra.
+
+247
+00:07:49,260 --> 00:07:51,420
+Tá vendo que ela não propaga, essa parte
+
+248
+00:07:51,420 --> 00:07:54,100
+brilhosa, ela não propaga por toda a esfera.
+
+249
+00:07:54,480 --> 00:07:56,300
+Ela só propaga por onde tem o brilho.
+
+250
+00:07:56,580 --> 00:07:59,940
+Vamos tirar essa base e vamos construir as
+
+251
+00:07:59,940 --> 00:08:00,400
+sombras.
+
+252
+00:08:01,240 --> 00:08:04,480
+Sombra de oclusão, mais ou menos aqui, tá?
+
+253
+00:08:04,700 --> 00:08:05,640
+Sombra de oclusão.
+
+254
+00:08:05,920 --> 00:08:06,860
+Presta atenção aqui.
+
+255
+00:08:07,220 --> 00:08:09,220
+Se eu der um CTRL J aqui, esse
+
+256
+00:08:09,220 --> 00:08:11,760
+cara, a gente vai dar um pump nele
+
+257
+00:08:11,760 --> 00:08:12,140
+aqui, ó.
+
+258
+00:08:12,340 --> 00:08:14,920
+Vamos arrastar pra cá e pra cá.
+
+259
+00:08:15,200 --> 00:08:18,540
+Já tenho uma sombrinha projetada um pouquinho maior.
+
+260
+00:08:19,000 --> 00:08:21,400
+Vamos duplicar mais uma vez e fazer a
+
+261
+00:08:21,400 --> 00:08:21,840
+mesma coisa.
+
+262
+00:08:22,280 --> 00:08:25,420
+Aumentar esse cara e um pouquinho aqui pras
+
+263
+00:08:25,420 --> 00:08:26,200
+laterais também.
+
+264
+00:08:26,600 --> 00:08:27,880
+Olha que agora eu já tenho uma sombra
+
+265
+00:08:27,880 --> 00:08:28,260
+maior.
+
+266
+00:08:28,660 --> 00:08:31,600
+CTRL J, só uma última aqui pra dar
+
+267
+00:08:31,600 --> 00:08:32,340
+um pump.
+
+268
+00:08:32,640 --> 00:08:34,919
+E aumenta só um golinho, beleza.
+
+269
+00:08:34,919 --> 00:08:36,260
+Olha essa sombra aqui.
+
+270
+00:08:36,440 --> 00:08:38,360
+É assim que funciona uma sombra.
+
+271
+00:08:38,640 --> 00:08:40,559
+Quando se trata de sombra, na hora que
+
+272
+00:08:40,559 --> 00:08:42,860
+você vai fazer a sombra no seu design,
+
+273
+00:08:43,280 --> 00:08:44,340
+fica cagado.
+
+274
+00:08:44,500 --> 00:08:45,580
+Por que fica cagado?
+
+275
+00:08:45,680 --> 00:08:48,600
+Porque você não tá levando em consideração essa
+
+276
+00:08:48,600 --> 00:08:53,780
+escala, essa dissipação, vamos dizer assim, de sombra
+
+277
+00:08:53,780 --> 00:08:55,160
+e luz.
+
+278
+00:08:55,480 --> 00:08:57,100
+Você não tá levando em consideração que a
+
+279
+00:08:57,100 --> 00:08:59,720
+parte que tá mais próxima da elipse, do
+
+280
+00:08:59,720 --> 00:09:01,660
+objeto em si, é mais escuro.
+
+281
+00:09:01,940 --> 00:09:04,020
+E você não leva em consideração que lá
+
+282
+00:09:04,020 --> 00:09:05,940
+no final ele é mais claro.
+
+283
+00:09:06,260 --> 00:09:07,640
+E é basicamente assim que funciona.
+
+284
+00:09:07,800 --> 00:09:08,900
+E é por isso que a sua sombra
+
+285
+00:09:08,900 --> 00:09:09,800
+fica cagada.
+
+286
+00:09:10,100 --> 00:09:12,080
+A gente pode fazer isso aqui simplesmente com
+
+287
+00:09:12,080 --> 00:09:13,160
+um pincel.
+
+288
+00:09:13,900 --> 00:09:16,240
+Mano, mano, eu tô no meu limite com
+
+289
+00:09:16,240 --> 00:09:17,240
+esse programa, velho.
+
+290
+00:09:17,340 --> 00:09:19,020
+Por que que não tá pintando um negócio?
+
+291
+00:09:19,340 --> 00:09:21,380
+Por que que não tá pintando um negócio,
+
+292
+00:09:21,600 --> 00:09:21,840
+cara?
+
+293
+00:09:22,140 --> 00:09:23,040
+Eu não sei!
+
+294
+00:09:23,240 --> 00:09:26,440
+Sombra aqui de oclusão, na parte do contato.
+
+295
+00:09:26,520 --> 00:09:28,020
+Vamos pegar a referência que é mais fácil
+
+296
+00:09:28,020 --> 00:09:28,540
+assim, né?
+
+297
+00:09:28,700 --> 00:09:30,700
+Vendo que é uma sombra bem difusa, mesma
+
+298
+00:09:30,700 --> 00:09:31,120
+coisa.
+
+299
+00:09:31,120 --> 00:09:34,340
+Essa sombra é em 50% pra gente
+
+300
+00:09:34,340 --> 00:09:35,480
+fazer vários toques.
+
+301
+00:09:35,640 --> 00:09:37,540
+Cada vez que você der um toque, ela
+
+302
+00:09:37,540 --> 00:09:39,080
+vai aumentando a intensidade.
+
+303
+00:09:39,160 --> 00:09:41,300
+Tenho ali a parte de oclusão.
+
+304
+00:09:41,540 --> 00:09:43,880
+Se eu aumentar, eu vou ter a sombra
+
+305
+00:09:43,880 --> 00:09:45,260
+um pouco mais difusa.
+
+306
+00:09:45,440 --> 00:09:46,900
+E a sombra projetada.
+
+307
+00:09:47,220 --> 00:09:51,000
+Essa sombra projetada pode ser mais firme, assim.
+
+308
+00:09:51,600 --> 00:09:53,420
+Ela pode ser mais reta, assim.
+
+309
+00:09:53,720 --> 00:09:55,000
+Ou mais suave.
+
+310
+00:09:55,180 --> 00:09:56,280
+Isso vai depender do quê?
+
+311
+00:09:56,700 --> 00:09:59,120
+Vai depender da intensidade da luz.
+
+312
+00:09:59,120 --> 00:10:01,440
+Isso aqui, cara, eu não vou entrar em
+
+313
+00:10:01,440 --> 00:10:01,960
+detalhe.
+
+314
+00:10:02,280 --> 00:10:04,400
+Eu explico como que é isso aqui dentro
+
+315
+00:10:04,400 --> 00:10:06,060
+da aula de luz e sombra lá no
+
+316
+00:10:06,060 --> 00:10:07,100
+Designer de Outra Dimensão.
+
+317
+00:10:07,300 --> 00:10:08,980
+Vale muito a pena você entrar pra poder
+
+318
+00:10:08,980 --> 00:10:11,580
+aprender não só isso, mas muito mais coisas.
+
+319
+00:10:12,120 --> 00:10:14,580
+Mas é algo um pouco mais aprofundado que
+
+320
+00:10:14,580 --> 00:10:15,840
+vai demorar um pouco mais de tempo.
+
+321
+00:10:15,940 --> 00:10:18,040
+Você só tem que saber que quanto mais
+
+322
+00:10:18,040 --> 00:10:20,740
+forte for essa luz, quanto mais intensa ela
+
+323
+00:10:20,740 --> 00:10:23,280
+for, mais dura a sombra vai ser.
+
+324
+00:10:23,580 --> 00:10:27,840
+Quanto mais suave essa luz for, mais desfocada,
+
+325
+00:10:27,980 --> 00:10:30,500
+vamos dizer assim, mais difusa a sombra vai
+
+326
+00:10:30,500 --> 00:10:30,760
+ser.
+
+327
+00:10:31,060 --> 00:10:35,320
+Resumindo, isso aqui, luz extremamente desfocada.
+
+328
+00:10:35,600 --> 00:10:36,820
+Desfocada não, suave.
+
+329
+00:10:37,020 --> 00:10:38,060
+Vou aumentar um pouco mais aqui.
+
+330
+00:10:38,360 --> 00:10:38,640
+Pronto.
+
+331
+00:10:39,020 --> 00:10:40,300
+Luz suave, assim.
+
+332
+00:10:40,520 --> 00:10:41,220
+Simples assim.
+
+333
+00:10:41,480 --> 00:10:42,380
+Isso aqui é uma luz suave.
+
+334
+00:10:42,520 --> 00:10:43,560
+Vamos dar um CTRL Z aqui.
+
+335
+00:10:44,060 --> 00:10:46,960
+Vamos voltar tudo, deixar só a luz aqui.
+
+336
+00:10:47,140 --> 00:10:49,120
+Esse cara, vamos colocar aqui no Multiply pra
+
+337
+00:10:49,120 --> 00:10:50,360
+não ter problema também.
+
+338
+00:10:50,600 --> 00:10:52,100
+Agora, diminui.
+
+339
+00:10:52,460 --> 00:10:54,880
+Vamos deixar isso aqui assim, um pouquinho menor.
+
+340
+00:10:54,880 --> 00:10:55,540
+Pronto.
+
+341
+00:10:55,920 --> 00:10:58,600
+Luz dura, mas olha só que ela tá
+
+342
+00:10:58,600 --> 00:10:59,260
+bem firme.
+
+343
+00:10:59,380 --> 00:11:01,800
+Vamos tirar isso aqui, adicionar mais uma e
+
+344
+00:11:01,800 --> 00:11:03,920
+deixar isso bem suave.
+
+345
+00:11:04,220 --> 00:11:07,100
+Não tanto, mas um pouco que fique interessante.
+
+346
+00:11:07,360 --> 00:11:08,320
+Aqui, mais ou menos.
+
+347
+00:11:08,700 --> 00:11:10,700
+Olha só que eu tenho duas luzes aqui
+
+348
+00:11:10,700 --> 00:11:11,680
+agora pra você entender.
+
+349
+00:11:11,860 --> 00:11:13,860
+A luz que é mais suave, que ela
+
+350
+00:11:13,860 --> 00:11:14,760
+tá mais difusa.
+
+351
+00:11:15,180 --> 00:11:16,340
+E a luz dura.
+
+352
+00:11:16,740 --> 00:11:18,820
+Só que essa luz dura aqui, ela precisa
+
+353
+00:11:18,820 --> 00:11:20,320
+de um CTRL J aqui.
+
+354
+00:11:20,420 --> 00:11:21,340
+Vendo que ela é mais dura?
+
+355
+00:11:21,340 --> 00:11:24,220
+Nesse caso, a gente teria aqui uma difusão
+
+356
+00:11:24,220 --> 00:11:25,300
+um pouco menor também.
+
+357
+00:11:25,620 --> 00:11:27,500
+Uma difusão, é uma difusão.
+
+358
+00:11:28,780 --> 00:11:31,660
+Terminator aqui, ela seria mais agressiva.
+
+359
+00:11:31,960 --> 00:11:34,020
+Existe um ponto ainda um pouco mais avançado
+
+360
+00:11:34,020 --> 00:11:34,940
+que eu vou te mostrar.
+
+361
+00:11:35,620 --> 00:11:36,640
+Presta atenção aqui.
+
+362
+00:11:36,760 --> 00:11:38,560
+Esse aqui é um ponto mais avançado ainda
+
+363
+00:11:38,560 --> 00:11:41,260
+pra você deixar o negócio ainda mais foda.
+
+364
+00:11:41,520 --> 00:11:41,800
+Por quê?
+
+365
+00:11:41,880 --> 00:11:43,200
+Isso aqui que eu acabei de te mostrar
+
+366
+00:11:43,200 --> 00:11:45,140
+é a parte simples e a parte básica.
+
+367
+00:11:45,280 --> 00:11:46,800
+Eu caguei aqui nessa sombra.
+
+368
+00:11:47,120 --> 00:11:49,900
+Ficou meio mal feita, mas não tem problema.
+
+369
+00:11:49,900 --> 00:11:52,060
+É porque eu não tô manjando ainda muito
+
+370
+00:11:52,060 --> 00:11:53,480
+de mexer nesse programa.
+
+371
+00:11:53,620 --> 00:11:54,660
+Tô meio perdido ainda.
+
+372
+00:11:54,860 --> 00:11:56,800
+Tem essa parte aqui do brilho, que você
+
+373
+00:11:56,800 --> 00:11:57,940
+já entendeu, certo?
+
+374
+00:11:58,140 --> 00:11:59,180
+Você já entendeu isso aqui.
+
+375
+00:11:59,560 --> 00:12:02,160
+Nesse caso aqui, você tem esse reflexo vindo
+
+376
+00:12:02,160 --> 00:12:02,720
+daqui.
+
+377
+00:12:02,980 --> 00:12:05,080
+Vamos só rotacionar aqui um pouco mais.
+
+378
+00:12:05,500 --> 00:12:07,100
+Aí, seria mais ou menos assim.
+
+379
+00:12:07,400 --> 00:12:08,480
+Aqui, isso aqui é o básico.
+
+380
+00:12:08,680 --> 00:12:11,860
+Luz principal, o highlight aqui, que é a
+
+381
+00:12:11,860 --> 00:12:13,220
+luz, as altas luzes.
+
+382
+00:12:13,320 --> 00:12:14,520
+Então aqui, alta luz.
+
+383
+00:12:14,740 --> 00:12:16,040
+Você tem a parte de baixo aqui das
+
+384
+00:12:16,040 --> 00:12:16,440
+sombras.
+
+385
+00:12:16,440 --> 00:12:19,080
+Você tem a luz que tá rebatendo na
+
+386
+00:12:19,080 --> 00:12:22,380
+mesa e refletindo aqui na parte da esfera.
+
+387
+00:12:23,740 --> 00:12:27,700
+Mas, mas, agora tem um toque que é
+
+388
+00:12:27,700 --> 00:12:32,780
+muito, muito subestimado e muita gente simplesmente não
+
+389
+00:12:32,780 --> 00:12:33,260
+faz.
+
+390
+00:12:33,560 --> 00:12:34,800
+A luz bateu, certo?
+
+391
+00:12:35,100 --> 00:12:36,320
+Tá batendo aqui, ok?
+
+392
+00:12:36,720 --> 00:12:39,120
+Ela não bateu na mesa e não tá
+
+393
+00:12:39,120 --> 00:12:40,360
+refletindo na esfera.
+
+394
+00:12:40,580 --> 00:12:41,880
+Tá vendo que a esfera tá meio aqui
+
+395
+00:12:41,880 --> 00:12:44,840
+com brilho meio amarelado, meio bege por causa
+
+396
+00:12:44,840 --> 00:12:46,700
+da base da madeira aqui?
+
+397
+00:12:47,040 --> 00:12:47,560
+Tá, não tá?
+
+398
+00:12:47,900 --> 00:12:51,160
+Só que agora, essa luz da base da
+
+399
+00:12:51,160 --> 00:12:54,280
+madeira que bateu na esfera, ela tá sendo
+
+400
+00:12:54,280 --> 00:12:55,780
+rebatida pra sombra.
+
+401
+00:12:56,040 --> 00:12:57,920
+E aí, ela causa esse brilho aqui, ó.
+
+402
+00:12:58,220 --> 00:12:59,080
+Meu amigo!
+
+403
+00:12:59,420 --> 00:13:01,960
+Porque a luz, ela trabalha e quando ela
+
+404
+00:13:01,960 --> 00:13:03,620
+bate num lugar, ela reflete no outro, que
+
+405
+00:13:03,620 --> 00:13:05,120
+reflete no outro, que reflete no outro, que
+
+406
+00:13:05,120 --> 00:13:05,600
+reflete no outro.
+
+407
+00:13:05,640 --> 00:13:06,260
+E assim por diante.
+
+408
+00:13:06,620 --> 00:13:07,920
+É assim que funciona, é assim que a
+
+409
+00:13:07,920 --> 00:13:08,860
+luz viaja.
+
+410
+00:13:09,020 --> 00:13:09,660
+É muito foda.
+
+411
+00:13:09,760 --> 00:13:11,560
+Se você não fica impressionado com esse tipo
+
+412
+00:13:11,560 --> 00:13:14,100
+de coisa, meu amigo, volta pro Instagram, volta
+
+413
+00:13:14,100 --> 00:13:16,300
+pro TikTok, assiste dancinha, porque isso aqui não
+
+414
+00:13:16,300 --> 00:13:16,960
+é pra você, não.
+
+415
+00:13:17,260 --> 00:13:19,860
+Isso aqui, cara, é só pra quem tá
+
+416
+00:13:19,860 --> 00:13:21,580
+em outra dimensão, cara.
+
+417
+00:13:21,940 --> 00:13:23,380
+A luz, ela desceu aqui, certo?
+
+418
+00:13:23,620 --> 00:13:25,040
+Ela tá vindo dessa direção.
+
+419
+00:13:25,320 --> 00:13:26,400
+Ela não bateu aqui, ó.
+
+420
+00:13:26,400 --> 00:13:27,280
+A luz não bateu aqui.
+
+421
+00:13:27,680 --> 00:13:29,980
+Quando ela bateu aqui, ela refletiu pra cá.
+
+422
+00:13:30,420 --> 00:13:32,640
+Quando ela refletiu pra cá, ela rebateu e
+
+423
+00:13:32,640 --> 00:13:33,780
+refletiu aqui, ó.
+
+424
+00:13:34,100 --> 00:13:34,960
+Peraí, aqui, ó.
+
+425
+00:13:35,100 --> 00:13:36,680
+Tá vendo essa parte aqui do brilho?
+
+426
+00:13:36,860 --> 00:13:39,860
+Essa parte do brilho é basicamente o reflexo
+
+427
+00:13:39,860 --> 00:13:41,820
+que tá vindo da esfera que tá aqui,
+
+428
+00:13:42,100 --> 00:13:42,300
+cara.
+
+429
+00:13:42,420 --> 00:13:43,380
+Olha isso aqui, mano.
+
+430
+00:13:43,680 --> 00:13:44,300
+Olha isso aqui.
+
+431
+00:13:44,600 --> 00:13:46,020
+Aí a luz, ela não tá vindo aqui,
+
+432
+00:13:46,180 --> 00:13:46,280
+ó.
+
+433
+00:13:46,460 --> 00:13:47,580
+Não continua vindo daqui.
+
+434
+00:13:47,980 --> 00:13:49,240
+Ela não bateu aqui, ó.
+
+435
+00:13:49,540 --> 00:13:50,480
+Ela tá batendo aqui, né?
+
+436
+00:13:50,800 --> 00:13:52,360
+Se ela tá batendo aqui, ela tá batendo
+
+437
+00:13:52,360 --> 00:13:53,640
+aqui na parte de trás, tá?
+
+438
+00:13:53,660 --> 00:13:55,240
+Imagina que não tem essa bola aqui, ó.
+
+439
+00:13:55,240 --> 00:13:56,920
+Ela tá batendo aqui na parte de trás,
+
+440
+00:13:57,080 --> 00:13:59,080
+que tá refletindo aqui, ó.
+
+441
+00:13:59,160 --> 00:14:01,620
+Tá subindo de volta pra essa lateral.
+
+442
+00:14:02,000 --> 00:14:03,220
+É isso que tá acontecendo, ó.
+
+443
+00:14:03,320 --> 00:14:06,220
+Ela tá batendo aqui e esse reflexo, ela
+
+444
+00:14:06,220 --> 00:14:09,120
+tá voltando pra cá, que tá produzindo esse
+
+445
+00:14:09,120 --> 00:14:09,620
+brilho aqui.
+
+446
+00:14:09,620 --> 00:14:12,560
+Quando produz esse brilho, ela volta pra cá
+
+447
+00:14:12,560 --> 00:14:13,820
+e faz esse brilho aqui.
+
+448
+00:14:14,080 --> 00:14:16,920
+Mano, se você não ficar louco com esse
+
+449
+00:14:16,920 --> 00:14:20,200
+negócio, se você não entender isso aqui, não
+
+450
+00:14:20,200 --> 00:14:21,540
+faz sentido você estar aqui no canal.
+
+451
+00:14:22,020 --> 00:14:22,740
+Não faz isso aqui.
+
+452
+00:14:22,820 --> 00:14:23,840
+É brutal, mano.
+
+453
+00:14:23,920 --> 00:14:25,600
+É simplesmente um bagulho muito louco.
+
+454
+00:14:25,960 --> 00:14:27,420
+É uma coisa muito simples.
+
+455
+00:14:28,140 --> 00:14:29,100
+Extremamente simples.
+
+456
+00:14:29,600 --> 00:14:32,280
+Mas se você prestar atenção, se você olhar
+
+457
+00:14:32,280 --> 00:14:34,940
+pro negócio e prestar atenção, você vai ver
+
+458
+00:14:34,940 --> 00:14:35,280
+isso.
+
+459
+00:14:35,680 --> 00:14:36,960
+Eu vou pegar aqui e a gente vai
+
+460
+00:14:36,960 --> 00:14:38,460
+fazer esse exemplo na prática.
+
+461
+00:14:38,960 --> 00:14:40,020
+Tá focando, né?
+
+462
+00:14:40,120 --> 00:14:40,640
+Tá focando.
+
+463
+00:14:40,920 --> 00:14:42,620
+Eu vou pegar aqui a minha caneca e
+
+464
+00:14:42,620 --> 00:14:44,220
+vou me colocar bem pertinho pra você ver.
+
+465
+00:14:44,440 --> 00:14:45,520
+Tá vendo o reflexo?
+
+466
+00:14:45,940 --> 00:14:48,360
+Caramba, que exemplo mais merda que eu fui
+
+467
+00:14:48,360 --> 00:14:49,020
+pegar também.
+
+468
+00:14:49,320 --> 00:14:49,760
+Porra!
+
+469
+00:14:50,040 --> 00:14:51,920
+Fui pegar uma caneca preta ainda por cima.
+
+470
+00:14:52,180 --> 00:14:53,360
+Não vai refletir nada.
+
+471
+00:14:53,740 --> 00:14:55,860
+Mas ó, tá vendo o reflexo aqui?
+
+472
+00:14:56,380 --> 00:14:57,200
+Deixa eu ver se eu consigo.
+
+473
+00:14:57,560 --> 00:14:58,080
+Tá vendo aqui?
+
+474
+00:14:58,220 --> 00:15:00,100
+A luz tá batendo aqui e ela tá
+
+475
+00:15:00,100 --> 00:15:02,000
+refletindo aqui na parte de baixo, tá?
+
+476
+00:15:02,200 --> 00:15:04,420
+Ignora o reflexo do brilho.
+
+477
+00:15:04,560 --> 00:15:06,240
+Assim, a luz repartida.
+
+478
+00:15:06,240 --> 00:15:07,300
+Nesse ponto aqui.
+
+479
+00:15:07,380 --> 00:15:07,640
+Tá vendo?
+
+480
+00:15:07,740 --> 00:15:08,620
+Bem aqui embaixo.
+
+481
+00:15:08,980 --> 00:15:11,280
+Essa parte aqui é o reflexo do brilho
+
+482
+00:15:11,280 --> 00:15:12,180
+da luz.
+
+483
+00:15:12,620 --> 00:15:13,840
+Não o reflexo...
+
+484
+00:15:13,840 --> 00:15:14,700
+Dá pra ver aí, não dá?
+
+485
+00:15:15,000 --> 00:15:15,700
+Dá pra ver, né?
+
+486
+00:15:16,020 --> 00:15:17,240
+Então, ó, o reflexo aqui.
+
+487
+00:15:17,640 --> 00:15:19,580
+Só que o que eu queria te mostrar
+
+488
+00:15:19,580 --> 00:15:24,560
+é que desse lado aqui, você não vai
+
+489
+00:15:24,560 --> 00:15:25,760
+conseguir ver muito bem.
+
+490
+00:15:26,120 --> 00:15:27,160
+Mas o que tá acontecendo?
+
+491
+00:15:27,760 --> 00:15:30,440
+A luz tá batendo aqui e tá refletindo
+
+492
+00:15:30,440 --> 00:15:31,100
+na caneca.
+
+493
+00:15:31,260 --> 00:15:33,280
+E a caneca tá devolvendo esse brilho pra
+
+494
+00:15:33,280 --> 00:15:34,040
+parte de baixo.
+
+495
+00:15:34,040 --> 00:15:37,700
+Tanto que, desse lado daqui, aonde eu tô
+
+496
+00:15:37,700 --> 00:15:39,900
+vendo, que você não vai conseguir ver, a
+
+497
+00:15:39,900 --> 00:15:41,060
+sombra é mais escura.
+
+498
+00:15:41,360 --> 00:15:41,720
+Por quê?
+
+499
+00:15:41,980 --> 00:15:44,000
+Porque é onde a luz não tá chegando.
+
+500
+00:15:44,340 --> 00:15:45,320
+Não tem reflexo.
+
+501
+00:15:45,560 --> 00:15:47,820
+É o ponto mais escuro da parte da
+
+502
+00:15:47,820 --> 00:15:48,200
+sombra.
+
+503
+00:15:48,540 --> 00:15:50,120
+Tanto na caneca quanto na base.
+
+504
+00:15:50,460 --> 00:15:52,240
+E aí não tem esse reflexo que rebate
+
+505
+00:15:52,240 --> 00:15:52,380
+lá.
+
+506
+00:15:52,460 --> 00:15:53,880
+Mas nas outras laterais tem.
+
+507
+00:15:54,140 --> 00:15:55,280
+É mais ou menos isso, ó.
+
+508
+00:15:55,520 --> 00:15:56,460
+Tá um pouco mais, ó.
+
+509
+00:15:56,700 --> 00:15:58,060
+Tá vendo aqui desse lado aqui, ó?
+
+510
+00:15:58,300 --> 00:16:00,180
+Desse lado aqui, do lado esquerdo.
+
+511
+00:16:00,220 --> 00:16:00,780
+Desse lado aqui.
+
+512
+00:16:00,940 --> 00:16:02,000
+Eu tenho um brilho escuro?
+
+513
+00:16:02,000 --> 00:16:02,380
+Por quê?
+
+514
+00:16:02,440 --> 00:16:05,020
+Esse brilho escuro é o reflexo da sombra.
+
+515
+00:16:05,040 --> 00:16:05,360
+Entendeu?
+
+516
+00:16:05,700 --> 00:16:08,320
+Se fosse um objeto branco, você entenderia um
+
+517
+00:16:08,320 --> 00:16:08,960
+pouco mais.
+
+518
+00:16:09,220 --> 00:16:10,400
+Você ia conseguir ver um pouco mais.
+
+519
+00:16:10,460 --> 00:16:12,160
+Mas como é um objeto preto, eu também
+
+520
+00:16:12,160 --> 00:16:14,400
+fiz essa cagada de pegar esse objeto preto
+
+521
+00:16:14,400 --> 00:16:16,260
+e acabei errando no exemplo.
+
+522
+00:16:16,520 --> 00:16:18,720
+Mas você vai entender com certeza absoluta.
+
+523
+00:16:18,840 --> 00:16:20,280
+Eu tenho certeza que você vai entender isso.
+
+524
+00:16:20,640 --> 00:16:23,360
+Como essa luz aqui é branca, essa luz
+
+525
+00:16:23,360 --> 00:16:25,200
+não, esse objeto é branco, fica mais fácil.
+
+526
+00:16:25,600 --> 00:16:28,420
+Eu nem me toquei nessa parte de ser
+
+527
+00:16:28,420 --> 00:16:29,040
+preto.
+
+528
+00:16:29,060 --> 00:16:30,940
+E o preto, ele não reflete muito.
+
+529
+00:16:30,940 --> 00:16:32,500
+Ele só absorve a luz.
+
+530
+00:16:32,840 --> 00:16:36,000
+E esse é o detalhe que, cara, muita
+
+531
+00:16:36,000 --> 00:16:36,920
+gente ignora.
+
+532
+00:16:37,040 --> 00:16:38,180
+Presta atenção aqui, ó, que eu vou te
+
+533
+00:16:38,180 --> 00:16:38,620
+mostrar.
+
+534
+00:16:38,940 --> 00:16:39,960
+Tá vendo que eu tenho um brilho mais
+
+535
+00:16:39,960 --> 00:16:40,640
+forte aqui, ó?
+
+536
+00:16:40,640 --> 00:16:42,460
+Tem até um flare aqui.
+
+537
+00:16:42,640 --> 00:16:43,000
+Por quê?
+
+538
+00:16:43,080 --> 00:16:45,520
+A luz bateu na caneca, na xícara.
+
+539
+00:16:46,000 --> 00:16:48,680
+A xícara refletiu no saco ali de café,
+
+540
+00:16:48,920 --> 00:16:51,400
+que é dourado, que refletiu na caneca, que
+
+541
+00:16:51,400 --> 00:16:53,660
+refletiu no saco, que refletiu na caneca e
+
+542
+00:16:53,660 --> 00:16:55,640
+produziu esse brilho mais intenso aqui.
+
+543
+00:16:55,940 --> 00:16:56,240
+Tá vendo?
+
+544
+00:16:56,540 --> 00:16:58,660
+Esse brilho aqui, ele não tem, ó.
+
+545
+00:16:58,960 --> 00:17:00,100
+É esse cara aqui, ó.
+
+546
+00:17:00,100 --> 00:17:02,300
+Se eu tirar, olha que porco que fica.
+
+547
+00:17:02,500 --> 00:17:02,780
+Tá vendo?
+
+548
+00:17:03,119 --> 00:17:05,480
+Não fica feio, não fica ruim, mas falta
+
+549
+00:17:05,480 --> 00:17:06,079
+alguma coisa.
+
+550
+00:17:06,540 --> 00:17:08,140
+E eu coloquei isso aqui porque eu entendo
+
+551
+00:17:08,140 --> 00:17:09,720
+esse princípio de luz e sombra e é
+
+552
+00:17:09,720 --> 00:17:10,880
+isso que eu quero que você entenda.
+
+553
+00:17:11,040 --> 00:17:13,000
+O brilho em si, o flarezinho que tem
+
+554
+00:17:13,000 --> 00:17:15,339
+ali, ó, sobre a parte da caneca, por
+
+555
+00:17:15,339 --> 00:17:15,480
+quê?
+
+556
+00:17:15,579 --> 00:17:16,440
+Aqui também, ó.
+
+557
+00:17:16,780 --> 00:17:18,940
+A luz bateu na xícara, bateu na...
+
+558
+00:17:18,940 --> 00:17:20,720
+Quer dizer, bateu na alça, que refletiu...
+
+559
+00:17:20,720 --> 00:17:21,760
+Você entendeu, né?
+
+560
+00:17:21,900 --> 00:17:24,880
+Eu tô começando a ficar prolixo aqui, mas
+
+561
+00:17:24,880 --> 00:17:26,200
+é isso aqui que eu quero que você
+
+562
+00:17:26,200 --> 00:17:26,560
+entenda.
+
+563
+00:17:26,560 --> 00:17:29,340
+E essa luz, ela sempre vai bater e
+
+564
+00:17:29,340 --> 00:17:29,740
+rebater.
+
+565
+00:17:30,120 --> 00:17:31,360
+É isso que vai acontecer sempre.
+
+566
+00:17:31,680 --> 00:17:33,080
+E é por isso que acontece isso aqui.
+
+567
+00:17:33,240 --> 00:17:35,360
+Então, esse é o detalhe supremo aqui.
+
+568
+00:17:35,760 --> 00:17:36,540
+Vamos dizer a teoria.
+
+569
+00:17:36,720 --> 00:17:39,540
+Essa é a teoria básica, mas faça isso
+
+570
+00:17:39,540 --> 00:17:41,820
+aqui que o seu design vai mudar completamente.
+
+571
+00:17:42,060 --> 00:17:44,400
+É o detalhe que quando você olhar, sempre
+
+572
+00:17:44,400 --> 00:17:45,080
+olha isso aqui.
+
+573
+00:17:45,280 --> 00:17:47,260
+Se você notar que o cara fez isso
+
+574
+00:17:47,260 --> 00:17:48,700
+aqui, é porque ele sabe o que ele
+
+575
+00:17:48,700 --> 00:17:50,460
+tá fazendo ou porque ele acabou de assistir
+
+576
+00:17:50,460 --> 00:17:51,000
+essa live.
+
+577
+00:17:51,300 --> 00:17:53,500
+Se você ver que tem essa sombra aqui,
+
+578
+00:17:53,860 --> 00:17:56,200
+tem esse brilho aqui, mas não tem essa
+
+579
+00:17:56,200 --> 00:17:59,640
+lógica do reflexo que bate lá e rebate
+
+580
+00:17:59,640 --> 00:18:03,060
+na sombra, não produz aquela sombra porca ali,
+
+581
+00:18:03,160 --> 00:18:04,940
+redondona, igual a que a gente fez aqui.
+
+582
+00:18:05,120 --> 00:18:07,980
+Essa sombra aqui é uma sombra bem porca.
+
+583
+00:18:08,200 --> 00:18:08,840
+Bem porca.
+
+584
+00:18:08,980 --> 00:18:10,320
+Se a gente for aumentar um pouco mais,
+
+585
+00:18:10,580 --> 00:18:11,980
+fica mais lógico.
+
+586
+00:18:12,260 --> 00:18:13,320
+Assim faz mais sentido.
+
+587
+00:18:13,740 --> 00:18:15,420
+O que que paria aqui?
+
+588
+00:18:15,620 --> 00:18:17,920
+Como que a gente poderia fazer para deixar
+
+589
+00:18:17,920 --> 00:18:21,660
+isso mais, vamos dizer assim, mais realista, para
+
+590
+00:18:21,660 --> 00:18:23,000
+usar aquela técnica ali?
+
+591
+00:18:23,540 --> 00:18:25,380
+Basicamente, você vai ter o reflexo que vai
+
+592
+00:18:25,380 --> 00:18:27,320
+ter aqui nessa parte, e aí a gente
+
+593
+00:18:27,320 --> 00:18:30,860
+faria algumas pinceladas bem neves aqui, para ter
+
+594
+00:18:30,860 --> 00:18:31,580
+esse reflexo.
+
+595
+00:18:31,680 --> 00:18:33,900
+Nessa parte de trás, dependendo de onde estiver
+
+596
+00:18:33,900 --> 00:18:36,580
+vindo a luz, ela não tem tanto brilho,
+
+597
+00:18:36,680 --> 00:18:37,380
+tanto desse brilho.
+
+598
+00:18:37,600 --> 00:18:39,280
+E essa daqui, mais ou menos isso.
+
+599
+00:18:39,480 --> 00:18:43,040
+Aqui a gente só diminui um pouquinho, 50%.
+
+600
+00:18:43,040 --> 00:18:45,140
+Olha para isso aqui, vamos tirar, tá vendo?
+
+601
+00:18:45,460 --> 00:18:46,740
+Eu sei que ela está refletindo.
+
+602
+00:18:47,060 --> 00:18:50,500
+Não está 100% realista isso aqui, obviamente
+
+603
+00:18:50,500 --> 00:18:52,700
+porque eu ainda não estou dominando muito bem
+
+604
+00:18:52,700 --> 00:18:53,400
+essa ferramenta.
+
+605
+00:18:53,640 --> 00:18:55,200
+Mas o princípio que eu quero que você
+
+606
+00:18:55,200 --> 00:18:57,660
+entenda, que é essa parte de luz e
+
+607
+00:18:57,660 --> 00:18:57,880
+sombra.
+
+608
+00:18:57,960 --> 00:18:58,980
+Como que isso aqui funciona?
+
+609
+00:18:59,220 --> 00:19:01,480
+Por isso que eu falei, ignora completamente aquela
+
+610
+00:19:01,480 --> 00:19:02,640
+questão das nomenclaturas.
+
+611
+00:19:02,980 --> 00:19:07,640
+Mas, sombra de oclusão, luz principal, altas luzes
+
+612
+00:19:07,640 --> 00:19:09,240
+e sombra projetada.
+
+613
+00:19:09,560 --> 00:19:10,040
+Básico.
+
+614
+00:19:10,240 --> 00:19:11,320
+Você já sabia disso aqui?
+
+615
+00:19:11,620 --> 00:19:13,020
+Você já sabia dessas técnicas?
+
+616
+00:19:13,120 --> 00:19:14,900
+Já sabia como é que isso aqui funciona
+
+617
+00:19:14,900 --> 00:19:16,540
+na prática, de fato?
+
+618
+00:19:16,540 --> 00:19:18,420
+Ainda tem como é que você aplica isso
+
+619
+00:19:18,420 --> 00:19:20,120
+aqui ao design em si.
+
+620
+00:19:20,420 --> 00:19:22,020
+Você quer saber, você quer ver como é
+
+621
+00:19:22,020 --> 00:19:23,640
+que eu faço isso, aplicando isso a um
+
+622
+00:19:23,640 --> 00:19:24,300
+design real?
+
+623
+00:19:24,800 --> 00:19:27,060
+Comenta aqui, que com certeza eu vou fazer.
+
+624
+00:19:27,400 --> 00:19:29,940
+E claro, quando você quiser entrar no design
+
+625
+00:19:29,940 --> 00:19:31,940
+de outra dimensão, você vai ser muito bem
+
+626
+00:19:31,940 --> 00:19:32,280
+-vindo.
+
+627
+00:19:32,520 --> 00:19:35,240
+Lá você vai aprender isso e mais coisas
+
+628
+00:19:35,240 --> 00:19:37,880
+de forma mais aprofundada, tanto a parte teórica
+
+629
+00:19:37,880 --> 00:19:39,000
+quanto a parte prática.

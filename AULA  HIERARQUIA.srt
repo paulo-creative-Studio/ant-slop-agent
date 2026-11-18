@@ -1,0 +1,1195 @@
+1
+00:00:00,420 --> 00:00:03,180
+(Transcrito por TurboScribe. Atualize para Ilimitado para remover esta mensagem.) Olha esse design aqui, tudo do mesmo tamanho,
+
+2
+00:00:03,480 --> 00:00:06,620
+mesma cor, mesmo peso, e aí tu bate
+
+3
+00:00:06,620 --> 00:00:08,900
+o olho e não sabe por onde começar
+
+4
+00:00:08,900 --> 00:00:09,220
+a ler.
+
+5
+00:00:09,500 --> 00:00:14,820
+Agora olha esse, mesmo conteúdo, mesmas informações, mas
+
+6
+00:00:14,820 --> 00:00:18,500
+você sabe exatamente o que ler primeiro, segundo,
+
+7
+00:00:19,120 --> 00:00:19,800
+terceiro.
+
+8
+00:00:19,800 --> 00:00:22,640
+A diferença entre os dois tem o nome,
+
+9
+00:00:22,960 --> 00:00:26,560
+hierarquia visual, e é o princípio de design
+
+10
+00:00:26,560 --> 00:00:30,740
+gráfico que organiza todos os elementos do projeto,
+
+11
+00:00:31,159 --> 00:00:35,160
+e a maioria dos designers gráficos iniciantes ignoram
+
+12
+00:00:35,160 --> 00:00:35,500
+isso.
+
+13
+00:00:35,620 --> 00:00:38,540
+Hierarquia visual é a ordem que os seus
+
+14
+00:00:38,540 --> 00:00:41,400
+olhos percorrem em um design, e é exatamente
+
+15
+00:00:41,400 --> 00:00:45,580
+aquilo que faz você olhar o título antes
+
+16
+00:00:45,580 --> 00:00:50,200
+do texto, o preço antes da descrição, o
+
+17
+00:00:50,200 --> 00:00:53,080
+botão de comprar antes dos termos de uso.
+
+18
+00:00:53,200 --> 00:00:56,120
+E tudo isso não acontece por acaso ou
+
+19
+00:00:56,120 --> 00:00:59,600
+porque você leu da forma correta, mas sim
+
+20
+00:00:59,600 --> 00:01:03,599
+é feito por decisões do designer gráfico que
+
+21
+00:01:03,599 --> 00:01:04,700
+fez aquele trabalho.
+
+22
+00:01:04,920 --> 00:01:07,460
+Quando você abre um cardápio de restaurante, os
+
+23
+00:01:07,460 --> 00:01:10,200
+teus olhos não leem linha por linha, de
+
+24
+00:01:10,200 --> 00:01:11,960
+cima pra baixo, como a gente faz num
+
+25
+00:01:11,960 --> 00:01:12,300
+livro.
+
+26
+00:01:12,920 --> 00:01:15,840
+Os olhos pulam, eles vão direto pro nome
+
+27
+00:01:15,840 --> 00:01:19,140
+do prato em destaque, depois pro preço, depois
+
+28
+00:01:19,140 --> 00:01:19,880
+pra descrição.
+
+29
+00:01:20,580 --> 00:01:23,280
+E isso acontece porque o designer criou níveis
+
+30
+00:01:23,280 --> 00:01:24,620
+de importância ali dentro.
+
+31
+00:01:25,040 --> 00:01:27,220
+O nome do prato é maior e mais
+
+32
+00:01:27,220 --> 00:01:30,940
+pesado, o preço tá em font bold, a
+
+33
+00:01:30,940 --> 00:01:33,380
+descrição já é menor, mais leve.
+
+34
+00:01:34,080 --> 00:01:36,440
+Cada elemento tem um papel muito claro.
+
+35
+00:01:36,440 --> 00:01:39,600
+Sem hierarquia, tudo vai querer gritar ao mesmo
+
+36
+00:01:39,600 --> 00:01:41,660
+tempo, é como se tu tivesse numa sala
+
+37
+00:01:41,660 --> 00:01:44,020
+com várias pessoas conversando e todas elas no
+
+38
+00:01:44,020 --> 00:01:44,720
+mesmo volume.
+
+39
+00:01:44,860 --> 00:01:47,180
+Você até escuta a voz de todas elas,
+
+40
+00:01:47,340 --> 00:01:49,000
+mas não consegue focar em nenhuma.
+
+41
+00:01:49,200 --> 00:01:52,740
+Com hierarquia, tem uma voz principal, uma secundária
+
+42
+00:01:52,740 --> 00:01:53,880
+e uma de apoio.
+
+43
+00:01:54,180 --> 00:01:57,340
+A mensagem sempre chega mais clara pro espectador.
+
+44
+00:01:57,340 --> 00:02:00,400
+E isso não vai valer somente pra cardápio,
+
+45
+00:02:00,500 --> 00:02:03,060
+mas pra tudo que você fizer no design.
+
+46
+00:02:03,720 --> 00:02:09,479
+Post de mídia social, banner digital, flyer, embalagem,
+
+47
+00:02:09,720 --> 00:02:10,580
+identidade visual.
+
+48
+00:02:10,900 --> 00:02:14,280
+Qualquer coisa que tenha informação, precisa sim de
+
+49
+00:02:14,280 --> 00:02:16,620
+uma hierarquia, se você quer ter um maior
+
+50
+00:02:16,620 --> 00:02:18,340
+aproveitamento daquela informação.
+
+51
+00:02:18,500 --> 00:02:20,240
+E o mais curioso é que geralmente a
+
+52
+00:02:20,240 --> 00:02:23,180
+gente usa a hierarquia na nossa vida, sem
+
+53
+00:02:23,180 --> 00:02:26,660
+ao menos perceber ou sem tomar tanta consciência
+
+54
+00:02:26,660 --> 00:02:27,020
+assim.
+
+55
+00:02:27,020 --> 00:02:29,620
+Vou te dar um exemplo, aquela mensagem que
+
+56
+00:02:29,620 --> 00:02:31,640
+a gente manda no whatsapp, que a gente
+
+57
+00:02:31,640 --> 00:02:34,480
+precisa de destaque e a gente coloca ela
+
+58
+00:02:34,480 --> 00:02:36,860
+em caixa alta ou em negrito.
+
+59
+00:02:37,300 --> 00:02:40,480
+Ou quando destaca alguma palavra em um e
+
+60
+00:02:40,480 --> 00:02:43,260
+-mail em negrito, a gente também traz atenção
+
+61
+00:02:43,260 --> 00:02:45,540
+pra aquela palavra e a gente tá usando
+
+62
+00:02:45,540 --> 00:02:47,180
+hierarquia sem ao menos perceber.
+
+63
+00:02:47,540 --> 00:02:50,320
+E existem quatro formas principais de você criar
+
+64
+00:02:50,320 --> 00:02:51,960
+hierarquia visual.
+
+65
+00:02:51,960 --> 00:02:55,180
+Você pode usar uma delas ou combinar várias,
+
+66
+00:02:55,500 --> 00:02:58,700
+mas saiba que quanto mais formas você usar,
+
+67
+00:02:59,260 --> 00:03:02,400
+mais hierarquia você consegue atingir no seu projeto.
+
+68
+00:03:02,720 --> 00:03:06,180
+Ferramenta 1, tamanho, que é a mais óbvia
+
+69
+00:03:06,180 --> 00:03:07,860
+e também a mais poderosa.
+
+70
+00:03:08,280 --> 00:03:11,880
+O elemento maior chama mais atenção, e isso
+
+71
+00:03:11,880 --> 00:03:13,940
+não vale só pra texto, vale pra tudo.
+
+72
+00:03:14,060 --> 00:03:16,400
+Por exemplo, uma foto grande no centro do
+
+73
+00:03:16,400 --> 00:03:18,880
+teu projeto com fotos menores ao redor.
+
+74
+00:03:18,880 --> 00:03:20,960
+O olho vai na grande primeiro.
+
+75
+00:03:21,260 --> 00:03:23,140
+Um ícone maior que os outros no site,
+
+76
+00:03:23,240 --> 00:03:24,560
+você olha pra ele antes.
+
+77
+00:03:25,360 --> 00:03:28,020
+Um botão de compra maior que o botão
+
+78
+00:03:28,020 --> 00:03:30,100
+de voltar, você já sabe qual que é
+
+79
+00:03:30,100 --> 00:03:31,000
+a ação principal.
+
+80
+00:03:31,560 --> 00:03:33,860
+Na tipografia, isso funciona igual.
+
+81
+00:03:34,540 --> 00:03:37,120
+Título grande, subtítulo médio e o corpo de
+
+82
+00:03:37,120 --> 00:03:38,000
+texto pequeno.
+
+83
+00:03:38,180 --> 00:03:40,240
+Só que o erro mais comum é não
+
+84
+00:03:40,240 --> 00:03:42,980
+exagerar tanto na diferença entre os elementos.
+
+85
+00:03:43,620 --> 00:03:46,180
+Então, se o teu título tá em 36
+
+86
+00:03:46,180 --> 00:03:48,360
+pontos e o corpo em 14 pontos numa
+
+87
+00:03:48,360 --> 00:03:50,440
+fonte, a hierarquia é clara.
+
+88
+00:03:50,960 --> 00:03:53,620
+Já se o título tá em 20 e
+
+89
+00:03:53,620 --> 00:03:56,080
+o corpo em 16, vai parecer que tá
+
+90
+00:03:56,080 --> 00:03:58,240
+tudo igual, mesmo que um seja maior que
+
+91
+00:03:58,240 --> 00:03:58,600
+o outro.
+
+92
+00:03:59,180 --> 00:04:01,840
+Então, precisa ter um salto bem visível na
+
+93
+00:04:01,840 --> 00:04:02,460
+hierarquia.
+
+94
+00:04:02,940 --> 00:04:05,700
+E a mesma lógica vai pra imagens e
+
+95
+00:04:05,700 --> 00:04:06,600
+outros elementos.
+
+96
+00:04:07,200 --> 00:04:09,480
+Se dois ícones têm quase o mesmo tamanho,
+
+97
+00:04:09,920 --> 00:04:11,300
+nenhum deles se destaca.
+
+98
+00:04:11,300 --> 00:04:14,100
+Já se um é o dobro do outro,
+
+99
+00:04:14,420 --> 00:04:15,720
+a hierarquia aparece.
+
+100
+00:04:15,959 --> 00:04:17,660
+Ferramenta 2, peso.
+
+101
+00:04:18,180 --> 00:04:21,200
+Pras fontes, a gente tem em bold versus
+
+102
+00:04:21,200 --> 00:04:22,820
+regular versus light.
+
+103
+00:04:23,220 --> 00:04:25,500
+O título pode ser em bold, o corpo
+
+104
+00:04:25,500 --> 00:04:28,540
+em regular e uma legenda ou texto secundário
+
+105
+00:04:28,540 --> 00:04:29,260
+em light.
+
+106
+00:04:29,720 --> 00:04:31,500
+Só que o peso não é só a
+
+107
+00:04:31,500 --> 00:04:32,200
+tipografia.
+
+108
+00:04:32,680 --> 00:04:35,520
+É qualquer elemento que vai parecer mais denso
+
+109
+00:04:35,520 --> 00:04:37,360
+e mais presente no teu design.
+
+110
+00:04:37,360 --> 00:04:40,520
+Uma linha grossa separa as seções com mais
+
+111
+00:04:40,520 --> 00:04:42,540
+força do que uma linha fina, por exemplo.
+
+112
+00:04:43,320 --> 00:04:46,440
+Um ícone preenchido chama mais atenção que um
+
+113
+00:04:46,440 --> 00:04:47,800
+ícone só de contorno.
+
+114
+00:04:48,580 --> 00:04:52,020
+Uma forma sólida tem mais peso visual que
+
+115
+00:04:52,020 --> 00:04:53,200
+uma forma mais vazada.
+
+116
+00:04:53,840 --> 00:04:56,660
+Num layout, uma foto com cores saturadas tem
+
+117
+00:04:56,660 --> 00:04:59,460
+mais peso que uma foto desaturada ao lado.
+
+118
+00:04:59,700 --> 00:05:01,780
+Então, quando tu quer que algo se destaque,
+
+119
+00:05:02,100 --> 00:05:03,000
+dá peso pra ele.
+
+120
+00:05:03,380 --> 00:05:05,920
+Mais grosso, mais preenchido, mais denso.
+
+121
+00:05:05,920 --> 00:05:09,300
+E quando você precisa que algo recue, tira
+
+122
+00:05:09,300 --> 00:05:09,760
+o peso.
+
+123
+00:05:10,200 --> 00:05:12,560
+Deixa mais fino, mais leve, mais sutil.
+
+124
+00:05:13,100 --> 00:05:16,180
+Na tipografia especificamente, a vantagem da gente usar
+
+125
+00:05:16,180 --> 00:05:19,080
+peso é que o design fica mais limpo.
+
+126
+00:05:19,560 --> 00:05:22,060
+Porque daí tu não precisa colocar 3 fontes
+
+127
+00:05:22,060 --> 00:05:22,620
+diferentes.
+
+128
+00:05:23,280 --> 00:05:25,820
+Uma fonte com boas variações de peso já
+
+129
+00:05:25,820 --> 00:05:26,340
+resolve.
+
+130
+00:05:26,460 --> 00:05:28,460
+Por isso, eu sempre recomendo escolher fontes que
+
+131
+00:05:28,460 --> 00:05:30,600
+tenham pelo menos light, regular e bold.
+
+132
+00:05:31,460 --> 00:05:34,340
+Ferramenta 3, cor e contraste.
+
+133
+00:05:34,340 --> 00:05:36,920
+E essa aqui funciona em qualquer tipo de
+
+134
+00:05:36,920 --> 00:05:37,340
+elemento.
+
+135
+00:05:37,940 --> 00:05:40,320
+Um botão laranja num site azul, o olho
+
+136
+00:05:40,320 --> 00:05:41,480
+vai direto pra ele.
+
+137
+00:05:41,960 --> 00:05:44,420
+Uma seta vermelha apontando pra um produto numa
+
+138
+00:05:44,420 --> 00:05:45,520
+embalagem cinza.
+
+139
+00:05:46,020 --> 00:05:48,200
+Uma foto colorida no meio de um layout
+
+140
+00:05:48,200 --> 00:05:49,080
+preto e branco.
+
+141
+00:05:49,580 --> 00:05:52,480
+Um ícone amarelo no meio de ícone cinza.
+
+142
+00:05:53,180 --> 00:05:55,840
+O elemento colorido sempre ganha atenção primeiro.
+
+143
+00:05:56,100 --> 00:05:57,740
+E funciona também no texto, tá?
+
+144
+00:05:57,780 --> 00:05:59,520
+Uma palavra em vermelho no meio de um
+
+145
+00:05:59,520 --> 00:06:02,280
+parágrafo todo preto é impossível de ignorar.
+
+146
+00:06:02,280 --> 00:06:04,680
+Só que não precisa ser cor vibrante.
+
+147
+00:06:05,300 --> 00:06:07,860
+Até contraste de claro e escuro já cria
+
+148
+00:06:07,860 --> 00:06:08,600
+hierarquia.
+
+149
+00:06:09,180 --> 00:06:11,820
+Uma caixa escura com texto branco dentro se
+
+150
+00:06:11,820 --> 00:06:13,260
+destaca num layout claro.
+
+151
+00:06:13,700 --> 00:06:15,300
+E aqui entra um truque que eu uso
+
+152
+00:06:15,300 --> 00:06:16,700
+muito nos meus projetos.
+
+153
+00:06:17,080 --> 00:06:19,320
+Pra criar uma hierarquia de texto sem mudar
+
+154
+00:06:19,320 --> 00:06:23,920
+fonte ou tamanho, basta usar tons diferentes da
+
+155
+00:06:23,920 --> 00:06:24,560
+mesma cor.
+
+156
+00:06:25,100 --> 00:06:27,740
+Título em preto, subtítulo num cinza um pouco
+
+157
+00:06:27,740 --> 00:06:28,420
+mais claro.
+
+158
+00:06:28,520 --> 00:06:30,120
+E o corpo do texto num cinza bem
+
+159
+00:06:30,120 --> 00:06:30,460
+clarinho.
+
+160
+00:06:30,460 --> 00:06:32,740
+E se tiver alguma legenda, pode usar um
+
+161
+00:06:32,740 --> 00:06:34,080
+cinza mais claro ainda.
+
+162
+00:06:34,140 --> 00:06:38,160
+E você cria quatro níveis de hierarquia, apenas
+
+163
+00:06:38,160 --> 00:06:40,180
+mudando o tom da cor, sem mudar outras
+
+164
+00:06:40,180 --> 00:06:40,780
+coisas.
+
+165
+00:06:41,140 --> 00:06:43,260
+Ferramenta quatro é o espaço.
+
+166
+00:06:43,640 --> 00:06:45,680
+Porque o espaço ao redor de qualquer elemento
+
+167
+00:06:45,680 --> 00:06:47,420
+sempre aumenta a importância dele.
+
+168
+00:06:48,080 --> 00:06:51,400
+Um logo com bastante área limpa ao redor
+
+169
+00:06:51,400 --> 00:06:55,540
+parece mais importante que esse mesmo logo espremido
+
+170
+00:06:55,540 --> 00:06:56,880
+entre textos e imagens.
+
+171
+00:06:56,880 --> 00:07:01,760
+Uma foto com margem generosa respira e chama
+
+172
+00:07:01,760 --> 00:07:03,020
+a atenção do espectador.
+
+173
+00:07:03,660 --> 00:07:06,040
+Um botão isolado no centro da tela com
+
+174
+00:07:06,040 --> 00:07:09,280
+absolutamente nada ao redor vai virar o ponto
+
+175
+00:07:09,280 --> 00:07:09,840
+focal.
+
+176
+00:07:10,520 --> 00:07:12,560
+Marcas de luxo usam muito isso.
+
+177
+00:07:12,640 --> 00:07:14,640
+A Apple, por exemplo, é mestre em espaço
+
+178
+00:07:14,640 --> 00:07:15,100
+branco.
+
+179
+00:07:15,580 --> 00:07:16,700
+Entra no site deles.
+
+180
+00:07:17,120 --> 00:07:20,020
+Uma foto do produto, uma frase e muito
+
+181
+00:07:20,020 --> 00:07:20,860
+espaço vazio.
+
+182
+00:07:21,540 --> 00:07:24,180
+Cada elemento que tá ali parece importante porque
+
+183
+00:07:24,180 --> 00:07:25,090
+não tem nada competindo.
+
+184
+00:07:26,050 --> 00:07:28,290
+Agora compara com o site de uma loja
+
+185
+00:07:28,290 --> 00:07:31,290
+popular, que tem banner em cima de banner,
+
+186
+00:07:31,690 --> 00:07:34,930
+pop-up, texto piscando, dez botões na mesma
+
+187
+00:07:34,930 --> 00:07:35,330
+tela.
+
+188
+00:07:35,830 --> 00:07:37,370
+Você nem sabe pra onde olhar.
+
+189
+00:07:37,770 --> 00:07:39,590
+E o problema maior não é nem nas
+
+190
+00:07:39,590 --> 00:07:42,270
+informações demais, mas sim porque falta espaço em
+
+191
+00:07:42,270 --> 00:07:43,310
+branco pra organizar.
+
+192
+00:07:43,850 --> 00:07:46,950
+E isso vale pra qualquer design, post, embalagem,
+
+193
+00:07:47,090 --> 00:07:48,030
+cartão, cardápio.
+
+194
+00:07:48,530 --> 00:07:51,150
+Quanto mais respiro ao redor do elemento principal,
+
+195
+00:07:51,650 --> 00:07:52,750
+mais ele se destaca.
+
+196
+00:07:52,750 --> 00:07:55,870
+Os espaços também servem pra separar os grupos
+
+197
+00:07:55,870 --> 00:07:56,670
+de informação.
+
+198
+00:07:56,930 --> 00:07:59,670
+Quando você coloca mais ou menos espaço entre
+
+199
+00:07:59,670 --> 00:08:03,370
+algumas seções, o olho entende aquilo e forma
+
+200
+00:08:03,370 --> 00:08:06,630
+grupos pra entender quais partes são pertencentes àquele
+
+201
+00:08:06,630 --> 00:08:07,050
+grupo.
+
+202
+00:08:07,270 --> 00:08:09,970
+Isso é o princípio da proximidade no Gestalt.
+
+203
+00:08:10,430 --> 00:08:12,010
+Se você não sabe o que é Gestalt,
+
+204
+00:08:12,090 --> 00:08:14,230
+a gente tem um vídeo falando sobre isso.
+
+205
+00:08:14,690 --> 00:08:16,570
+Eu vou deixar na tela pra você no
+
+206
+00:08:16,570 --> 00:08:17,330
+final desse vídeo.
+
+207
+00:08:17,810 --> 00:08:19,710
+Vai lá e assiste porque vai te ajudar
+
+208
+00:08:19,710 --> 00:08:22,190
+muito na hora de criar a hierarquia visual
+
+209
+00:08:22,190 --> 00:08:23,170
+pros seus projetos.
+
+210
+00:08:23,330 --> 00:08:26,190
+Num post de Instagram, por exemplo, a imagem
+
+211
+00:08:26,190 --> 00:08:28,070
+ou título é nível 1.
+
+212
+00:08:28,690 --> 00:08:32,350
+É grande, no centro, com uma cor forte
+
+213
+00:08:32,350 --> 00:08:34,530
+ou uma foto impactante.
+
+214
+00:08:35,070 --> 00:08:36,809
+E é o que faz a pessoa parar
+
+215
+00:08:36,809 --> 00:08:37,909
+de rolar o feed.
+
+216
+00:08:38,549 --> 00:08:41,070
+A informação secundária já é nível 2.
+
+217
+00:08:41,370 --> 00:08:43,930
+O texto é menor, os ícones de apoio
+
+218
+00:08:43,930 --> 00:08:45,610
+ao redor, um tom mais suave.
+
+219
+00:08:46,250 --> 00:08:48,610
+O logo ou a chamada pra ação já
+
+220
+00:08:48,610 --> 00:08:49,430
+é nível 3.
+
+221
+00:08:50,190 --> 00:08:53,890
+Presente, só que bem discreto, no canto, pequeno,
+
+222
+00:08:54,410 --> 00:08:55,790
+cumprindo o papel de assinatura.
+
+223
+00:08:56,330 --> 00:08:58,950
+Se eu colocar o logo do mesmo tamanho
+
+224
+00:08:58,950 --> 00:09:01,690
+que a imagem principal, os dois competem e
+
+225
+00:09:01,690 --> 00:09:02,690
+nenhum se destaca.
+
+226
+00:09:03,210 --> 00:09:05,790
+O logo não é pra ser protagonista, e
+
+227
+00:09:05,790 --> 00:09:07,530
+sim uma assinatura identificação.
+
+228
+00:09:08,310 --> 00:09:11,550
+Num cartão de visita, o nome principal é
+
+229
+00:09:11,550 --> 00:09:12,030
+nível 1.
+
+230
+00:09:12,610 --> 00:09:15,530
+O cargo e o contato são nível 2.
+
+231
+00:09:15,530 --> 00:09:19,310
+O endereço ou redes sociais são nível 3.
+
+232
+00:09:19,950 --> 00:09:21,750
+E se tem um logo no cartão, ele
+
+233
+00:09:21,750 --> 00:09:24,490
+pode ser nível 1 ou 3 dependendo da
+
+234
+00:09:24,490 --> 00:09:25,190
+estratégia.
+
+235
+00:09:25,590 --> 00:09:27,390
+Se é uma marca forte, o logo domina
+
+236
+00:09:27,390 --> 00:09:28,790
+e o nome fica menor.
+
+237
+00:09:29,270 --> 00:09:31,690
+Se é um profissional autônomo, o nome domina
+
+238
+00:09:31,690 --> 00:09:32,770
+e o logo acompanha.
+
+239
+00:09:33,650 --> 00:09:35,470
+Já o erro é colocar tudo no mesmo
+
+240
+00:09:35,470 --> 00:09:37,230
+tamanho, peso e cor.
+
+241
+00:09:37,370 --> 00:09:39,950
+Num cardápio, o nome do prato é nível
+
+242
+00:09:39,950 --> 00:09:40,230
+1.
+
+243
+00:09:40,230 --> 00:09:44,270
+O preço é nível 2, geralmente em bold
+
+244
+00:09:44,270 --> 00:09:45,370
+ou uma cor diferente.
+
+245
+00:09:45,570 --> 00:09:48,170
+A descrição do prato, ingrediente, já é nível
+
+246
+00:09:48,170 --> 00:09:50,950
+3, porque tá menor e mais leve.
+
+247
+00:09:51,430 --> 00:09:53,690
+Se a descrição compete com o nome do
+
+248
+00:09:53,690 --> 00:09:56,330
+prato, o cardápio começa a ficar confuso.
+
+249
+00:09:56,850 --> 00:09:59,710
+Se você definir 3 níveis de prioridade de
+
+250
+00:09:59,710 --> 00:10:02,370
+informação pra um projeto, você já tem uma
+
+251
+00:10:02,370 --> 00:10:04,390
+hierarquia visual bem definida.
+
+252
+00:10:04,390 --> 00:10:07,190
+Mas independente do projeto, você pode usar 4
+
+253
+00:10:07,190 --> 00:10:09,850
+ou 5 níveis de hierarquia de informação.
+
+254
+00:10:10,250 --> 00:10:12,570
+E agora eu vou te contar 3 erros
+
+255
+00:10:12,570 --> 00:10:15,650
+que podem matar a sua hierarquia em um
+
+256
+00:10:15,650 --> 00:10:16,170
+projeto.
+
+257
+00:10:16,630 --> 00:10:17,290
+O primeiro.
+
+258
+00:10:17,610 --> 00:10:20,310
+Quando tudo é destaque, nada é destaque.
+
+259
+00:10:20,450 --> 00:10:23,610
+Se todos os textos são grandes, estão em
+
+260
+00:10:23,610 --> 00:10:27,290
+bold, são coloridos, você não cria hierarquia, porque
+
+261
+00:10:27,290 --> 00:10:29,110
+eles vão brigar entre si.
+
+262
+00:10:29,250 --> 00:10:32,010
+Pra alguma coisa se destacar, a outra precisa
+
+263
+00:10:32,010 --> 00:10:32,550
+recuar.
+
+264
+00:10:32,550 --> 00:10:35,510
+Se você tenta destacar tudo, nada se destaca.
+
+265
+00:10:36,050 --> 00:10:38,690
+É como, por exemplo, quando alguém quer chamar
+
+266
+00:10:38,690 --> 00:10:41,270
+atenção pra um texto em projeto e escreve
+
+267
+00:10:41,270 --> 00:10:43,130
+absolutamente tudo em caixa alta.
+
+268
+00:10:43,790 --> 00:10:45,310
+Simplesmente não funciona.
+
+269
+00:10:45,630 --> 00:10:46,190
+Segundo.
+
+270
+00:10:46,550 --> 00:10:48,770
+Pouco contraste entre os níveis.
+
+271
+00:10:49,390 --> 00:10:51,410
+Então tu tá lá com um título que
+
+272
+00:10:51,410 --> 00:10:53,730
+tá com tamanho de 23 pontos e o
+
+273
+00:10:53,730 --> 00:10:56,170
+corpo do texto em 18 pontos de tamanho.
+
+274
+00:10:56,770 --> 00:10:59,630
+Tem uma diferença, mas ela é quase que
+
+275
+00:10:59,630 --> 00:11:02,250
+imperceptível, porque o olho da pessoa nem percebe,
+
+276
+00:11:02,350 --> 00:11:04,650
+não cria aquela hierarquia visual clara.
+
+277
+00:11:04,850 --> 00:11:07,930
+Precisa sim ter um salto visível, então dobre
+
+278
+00:11:07,930 --> 00:11:10,790
+o tamanho, muda o peso, muda a cor,
+
+279
+00:11:11,030 --> 00:11:14,410
+faz uma coisa mais forte pra criar um
+
+280
+00:11:14,410 --> 00:11:15,750
+destaque naquele projeto.
+
+281
+00:11:15,870 --> 00:11:18,130
+E o terceiro é ignorar o espaço.
+
+282
+00:11:18,390 --> 00:11:21,090
+Mesmo que você crie hierarquia entre os níveis,
+
+283
+00:11:21,450 --> 00:11:25,370
+você destaque textos, se tudo estiver colado, sem
+
+284
+00:11:25,370 --> 00:11:28,930
+espaços em branco, pra respiro daquele projeto, o
+
+285
+00:11:28,930 --> 00:11:32,570
+olho fica cansado e não sabe exatamente pra
+
+286
+00:11:32,570 --> 00:11:33,170
+onde olhar.
+
+287
+00:11:33,530 --> 00:11:36,430
+Então a sua hierarquia visual falha nesse momento.
+
+288
+00:11:36,610 --> 00:11:38,190
+Dá um ar pro seu layout.
+
+289
+00:11:38,810 --> 00:11:42,710
+Tenta deixar os respiros o máximo possível que
+
+290
+00:11:42,710 --> 00:11:44,830
+vai ficar cada vez melhor e com aspecto
+
+291
+00:11:44,830 --> 00:11:45,670
+mais profissional.
+
+292
+00:11:45,890 --> 00:11:47,690
+E se você se interessa por vídeos como
+
+293
+00:11:47,690 --> 00:11:50,510
+esse, eu te peço pra se inscrever aqui
+
+294
+00:11:50,510 --> 00:11:51,550
+no meu canal, que eu estou com a
+
+295
+00:11:51,550 --> 00:11:53,530
+meta de chegar a 100 mil designers e
+
+296
+00:11:53,530 --> 00:11:55,430
+criativos e eu conto com a sua ajuda.
+
+297
+00:11:55,430 --> 00:11:57,310
+Não esquece que agora eu vou deixar o
+
+298
+00:11:57,310 --> 00:11:58,850
+vídeo na tela sobre gestalt.
+
+299
+00:11:59,250 --> 00:12:00,910
+Um beijo e até a próxima!
